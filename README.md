@@ -8,7 +8,7 @@ The study consists in a Python Jupyter Notebook.
 
 Data provided by [AirParif](https://www.airparif.asso.fr/).
 
-## Results summury
+## Results summary
 
 Average concentrations on period (microg/m^3)
 
