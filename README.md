@@ -6,6 +6,8 @@ As a consequence, it's been a unique opportunity to study air pollutants data an
 
 The study consists in a Python Jupyter Notebook.
 
+A small article with more details is also available in french.
+
 Data provided by [AirParif](https://www.airparif.asso.fr/).
 
 ## Results summary
