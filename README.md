@@ -19,3 +19,16 @@ Average concentrations on period (microg/m^3)
 | O3 |	60.078404 |	63.966673 |	62.935268 |	70.354601 |
 | PM10 |	25.082143 |	24.696071 |	26.737798 |	22.672113 |
 | PM25 |	12.922247 |	12.692921 |	15.491656 |	13.142591 |
+
+
+## Graphs
+
+![NO2 Graph](graph_results/NO2.png)
+
+![NOx Graph](graph_results/NOX.png)
+
+![O3 Graph](graph_results/O3.png)
+
+![PM10 Graph](graph_results/PM10.png)
+
+![PM2.5 Graph](graph_results/PM25.png)
