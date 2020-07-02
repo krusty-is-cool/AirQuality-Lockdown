@@ -28,6 +28,8 @@ On serait tenté de s'exclamer que la baisse du trafic n'aurait eu aucun impact 
 
 L'indice est établi de manière à refléter le seuil le plus élevé atteint par l'un des polluants surveillés. Encore une fois, un petit tour sur le site d'AirParif nous permet de comprendre.
 
+![Grille de Calcul Indice AirParif](imgs_article/grille_de_calcul_indice_airparif.png)
+
 Par exemple, pour la journée du 3 juin 2020, l'indice est de 52, ce qui correspond à une qualité de l'air "moyenne". En réalité, le niveau "moyen" est seulement atteint par l'ozone (O3). Les autres polluants sont dans des niveaux "faible" ou "très faible". De plus, l'ozone est un polluant secondaire qui n'est pas directement rejeté par les habitations ou les véhicules.
 
 ![Détail Indice AirParif](imgs_article/détail_indice_airparif.png)
@@ -68,5 +70,22 @@ Les émissions de dioxyde de soufre (SO2) sont fortement liées à la teneur en 
 
 A chaque instant, la moyenne des mesures de l'ensemble des stations a été calculé. On a alors une valeur toute les heure. On extrait ensuite le maximum atteint pendant la journée. Ce sont ces maximums journaliers qui sont tracé en histogrammes. D'autre part, on calcule la moyenne sur l'ensemble de la période, à partir des valeurs horaires. La nuit, pendant laquelle le niveau de pollution est plus bas qu'en journée, est donc prise en compte dans ce calcul. La moyenne sur la période est tracée en ligne continue sur chaque graphique et les résultats sont reportés dans un tableau.
 
+| 	| 2017 | 2018 |	2019 | 2020 | Evolution Moyenne | Evolution 2019 |
+|---|---|---|---|---|---|---| 
+| NO2 |	39.443204 |	38.698732 |	39.391387 |	20.440937 | -47.83 % | -48.11 % |
+| NOX |	83.616295 |	78.604687 |	79.100019 |	32.594196 | -59.48 % | -58.79 % |
+| O3 |	60.078404 |	63.966673 |	62.935268 |	70.354601 | +12.88 % | +11.79 % |
+| PM10 |	25.082143 |	24.696071 |	26.737798 |	22.672113 | -11.11 % | -15.21 % |
+| PM25 |	12.922247 |	12.692921 |	15.491656 |	13.142591 | -4.08 % | -15.16 % |
 
+
+![NO2 Graph](graph_results/NO2.png)
+
+![NOx Graph](graph_results/NOX.png)
+
+![O3 Graph](graph_results/O3.png)
+
+![PM10 Graph](graph_results/PM10.png)
+
+![PM2.5 Graph](graph_results/PM25.png)
 
