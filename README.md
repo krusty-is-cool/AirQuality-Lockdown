@@ -6,7 +6,7 @@ As a consequence, it's a unique opportunity to study air pollutants data and to 
 
 The study consists in a Python Jupyter Notebook.
 
-A small [article](https://github.com/krusty-is-cool/AirQuality-Lockdown/article.md) with more details is also available in french.
+A small [article](https://github.com/krusty-is-cool/AirQuality-Lockdown/blob/master/article.md) with more details is also available in french.
 
 Data provided by [AirParif](https://www.airparif.asso.fr/).
 
