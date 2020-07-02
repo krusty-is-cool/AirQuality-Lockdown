@@ -20,19 +20,19 @@ Il est facile de s'y méprendre. Pour donner une idée de la qualité de l'air e
 En regardant l'historique de cet indice pour les mois de Mars, Avril et Mai, on ne constate aucune amélioration sensible par rapport à l'année dernière. 
 Exemple pour le moi d'avril :
 
-![Indices Avril 2019](imgs_article/indice_avril_2019.png)
+![Indices Avril 2019](imgs_article/indice_avril_2019.PNG)
 
-![Indices Avril 2020](imgs_article/indice_avril_2020.png)
+![Indices Avril 2020](imgs_article/indice_avril_2020.PNG)
 
 On serait tenté de s'exclamer que la baisse du trafic n'aurait eu aucun impact sur la qualité de l'air. Pourtant on aurait tort !
 
 L'indice est établi de manière à refléter le seuil le plus élevé atteint par l'un des polluants surveillés. Encore une fois, un petit tour sur le site d'AirParif nous permet de comprendre.
 
-![Grille de Calcul Indice AirParif](imgs_article/grille_de_calcul_indice_airparif.png)
+![Grille de Calcul Indice AirParif](imgs_article/grille_de_calcul_indice_airparif.PNG)
 
 Par exemple, pour la journée du 3 juin 2020, l'indice est de 52, ce qui correspond à une qualité de l'air "moyenne". En réalité, le niveau "moyen" est seulement atteint par l'ozone (O3). Les autres polluants sont dans des niveaux "faible" ou "très faible". De plus, l'ozone est un polluant secondaire qui n'est pas directement rejeté par les habitations ou les véhicules.
 
-![Détail Indice AirParif](imgs_article/détail_indice_airparif.png)
+![Détail Indice AirParif](imgs_article/détail_indice_airparif.PNG)
 
 Pour réellement espérer observer une évolution de la qualité de l'air avec le confinement, il faut donc étudier les concentrations de chaque polluant indépendamment.
 
